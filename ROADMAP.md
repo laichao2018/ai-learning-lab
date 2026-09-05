@@ -24,7 +24,9 @@
 - [ ] 获取结构化 JSON 输出
 - [ ] 记录 token 用量、延迟和费用
 
-产出：`examples/01_api_basics/`
+产出：`examples/01_hugging_face/`
+
+当前入口：[Day 1：从 Hugging Face 开始认识大模型](learning-paths/day-01-hugging-face.md)
 
 ## Day 2：Prompt 与结构化输出
 

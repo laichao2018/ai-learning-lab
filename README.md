@@ -11,7 +11,12 @@
 ```text
 .
 ├── ROADMAP.md              # 七天学习计划
-├── notes/                  # 每日笔记、概念总结和 AI 工程英语
+├── learning-paths/         # 每日学习提纲与导航
+├── knowledge/              # 按主题分类的知识正文
+│   ├── hugging-face/
+│   └── llm/
+├── tutorials/              # 可逐步执行的实践教程
+├── notes/                  # 个人笔记、实验观察和英语记录
 ├── examples/               # 独立的小型代码实验
 ├── projects/
 │   └── cpp-assistant/      # 一周实战项目
@@ -35,4 +40,4 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-后续根据具体实验安装依赖。学习进度记录在 [ROADMAP.md](ROADMAP.md)。
+后续根据具体实验安装依赖。学习进度记录在 [ROADMAP.md](ROADMAP.md)，第一天从 [Hugging Face 学习提纲](learning-paths/day-01-hugging-face.md) 开始。
