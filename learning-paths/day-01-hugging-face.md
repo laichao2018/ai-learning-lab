@@ -11,10 +11,21 @@
 3. 解释参数量、权重大小、量化精度和运行内存的区别。
 4. 使用 Transformers 在本地运行一个小型开源语言模型。
 5. 描述文本经过 tokenizer、模型推理再解码为文本的过程。
+6. 解释 PyTorch、TensorFlow、Transformer 与 Hugging Face Transformers 的层级关系。
 
 本阶段不训练模型。先走通模型发现、选择、下载和推理的完整流程。
 
 ## 学习顺序
+
+### 0. 建立深度学习技术栈地图
+
+阅读：[PyTorch、TensorFlow 与 Transformer 的关系](../knowledge/foundations/deep-learning-stack.md)
+
+重点回答：
+
+- 深度学习框架与模型架构有什么区别？
+- Transformer 与 Hugging Face Transformers 为什么不是同一个东西？
+- Tensor、Layer、Parameter、Gradient 和 Optimizer 分别是什么？
 
 ### 1. 认识 Hugging Face
 
@@ -75,7 +86,8 @@
 
 ## 当日验收
 
-- [ ] 完成上述四篇知识文档的自测题。
+- [ ] 完成上述五篇知识文档的自测题。
+- [ ] 能画出“硬件 → 框架 → 架构 → 工具库 → 应用”的分层关系。
 - [ ] 成功运行 `quickstart.py`。
 - [ ] 修改问题和至少两个生成参数，比较输出差异。
 - [ ] 查看 tokenizer 的分词结果和渲染后的 chat template。
@@ -83,4 +95,3 @@
 - [ ] 从今天的资料中选择 5 个英语术语，写入词汇记录。
 
 英语支线：[AI 工程英语学习计划](../notes/ai-engineering-english.md)
-

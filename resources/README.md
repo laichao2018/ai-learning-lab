@@ -12,6 +12,8 @@
 - [Hugging Face Spaces](https://huggingface.co/docs/hub/main/spaces-overview)
 - [Qwen3-0.6B Model Card](https://huggingface.co/Qwen/Qwen3-0.6B)
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
+- [TensorFlow Basics](https://www.tensorflow.org/guide/basics)
+- [Keras 3 Overview](https://keras.io/about/)
 
 ## 本地推理
 

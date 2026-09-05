@@ -13,6 +13,7 @@
 ├── ROADMAP.md              # 七天学习计划
 ├── learning-paths/         # 每日学习提纲与导航
 ├── knowledge/              # 按主题分类的知识正文
+│   ├── foundations/
 │   ├── hugging-face/
 │   └── llm/
 ├── tutorials/              # 可逐步执行的实践教程
