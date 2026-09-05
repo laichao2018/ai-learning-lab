@@ -5,7 +5,12 @@
 ## 入门
 
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
-- [Hugging Face Transformers](https://huggingface.co/docs/transformers/)
+- [Hugging Face Hub](https://huggingface.co/docs/hub/index)
+- [Transformers Quickstart](https://huggingface.co/docs/transformers/quicktour)
+- [Chat templates](https://huggingface.co/docs/transformers/chat_templating)
+- [Downloading files from the Hub](https://huggingface.co/docs/huggingface_hub/en/guides/download)
+- [Hugging Face Spaces](https://huggingface.co/docs/hub/main/spaces-overview)
+- [Qwen3-0.6B Model Card](https://huggingface.co/Qwen/Qwen3-0.6B)
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
 
 ## 本地推理

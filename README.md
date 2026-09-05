@@ -11,7 +11,7 @@
 ```text
 .
 ├── ROADMAP.md              # 七天学习计划
-├── notes/                  # 每日笔记和概念总结
+├── notes/                  # 每日笔记、概念总结和 AI 工程英语
 ├── examples/               # 独立的小型代码实验
 ├── projects/
 │   └── cpp-assistant/      # 一周实战项目
@@ -36,4 +36,3 @@ source .venv/bin/activate
 ```
 
 后续根据具体实验安装依赖。学习进度记录在 [ROADMAP.md](ROADMAP.md)。
-

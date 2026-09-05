@@ -2,6 +2,20 @@
 
 建议每天投入 3～5 小时。每天应至少留下一个可运行程序、一篇简短笔记或一组评测结果。
 
+## 并行支线：AI 工程英语
+
+每天额外投入 20～30 分钟，提高阅读 Hugging Face、模型文档、论文摘要和工程报错的能力。英语支线不追求一次记住大量词汇，而是围绕当天主线任务积累高频术语。
+
+- [ ] Day 1：Hugging Face 页面、模型与文件相关词汇
+- [ ] Day 2：Prompt、生成参数与结构化输出词汇
+- [ ] Day 3：Embedding、检索与 RAG 词汇
+- [ ] Day 4：Agent、工具调用与权限安全词汇
+- [ ] Day 5：评测、指标、可靠性与错误分析词汇
+- [ ] Day 6：推理、量化、硬件与性能词汇
+- [ ] Day 7：阅读一篇模型卡和一个英文 README，并用中文复述
+
+每天执行“读、记、写、说、复习”五步法，具体教程与词表见 [`notes/ai-engineering-english.md`](notes/ai-engineering-english.md)。
+
 ## Day 1：模型基础与 API
 
 - [ ] 理解 Token、上下文窗口、Transformer、Attention、推理与训练
@@ -72,4 +86,3 @@
 - 推理工程：llama.cpp、vLLM、量化和 GPU 优化
 - 模型训练：PyTorch、SFT、LoRA 和分布式训练
 - C++ 与 AI：GGML、算子、Metal/CUDA 和推理调度
-

@@ -1,0 +1,12 @@
+---
+description: Commit and push completed documentation changes to GitHub
+alwaysApply: true
+---
+
+# Sync Documentation Changes
+
+- After modifying repository documentation or learning materials, verify the changes, create a descriptive Git commit, and push the current branch to its configured GitHub remote.
+- Include all completed changes that belong to the current task, while preserving unrelated user changes.
+- Never commit secrets, local `.env` files, credentials, downloaded model weights, caches, or generated private data.
+- Do not force-push or overwrite remote history.
+- If commit or push fails, preserve the local work and clearly report the cause and current Git state.
